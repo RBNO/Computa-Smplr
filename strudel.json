@@ -1,7 +1,7 @@
 {
-  "_base": "https://raw.githubusercontent.com/RBNO/Computa-Smplr/main",
-  "MC202": ["MC202/Note1.wav","MC202/Note2.wav","MC202/Note3.wav","MC202/Note4.wav","MC202/Note5.wav","MC202/Note6.wav","MC202/Note7.wav","MC202/Note8.wav","MC202/Note9.wav","MC202/NoteA.wav","MC202/NoteB.wav","MC202/PWN.wav"],
-  "Garage1": [
+  "_base": "https://raw.githubusercontent.com/RBNO/Computa-Smplr/main/",
+  "mc202": ["MC202/Note1.wav","MC202/Note2.wav","MC202/Note3.wav","MC202/Note4.wav","MC202/Note5.wav","MC202/Note6.wav","MC202/Note7.wav","MC202/Note8.wav","MC202/Note9.wav","MC202/NoteA.wav","MC202/NoteB.wav","MC202/PWN.wav"],
+  "garage1": [
       "Garage1/Bass.wav",
       "Garage1/Snare.wav",
       "Garage1/Rimshot.wav",
