@@ -1,14 +1,51 @@
 {
   "_base": "https://raw.githubusercontent.com/RBNO/Computa-Smplr/main/",
-  "mc202": ["MC202/Note1.wav","MC202/Note2.wav","MC202/Note3.wav","MC202/Note4.wav","MC202/Note5.wav","MC202/Note6.wav","MC202/Note7.wav","MC202/Note8.wav","MC202/Note9.wav","MC202/NoteA.wav","MC202/NoteB.wav","MC202/PWN.wav"],
+  "mc202": [
+    "MC202/Note1.wav",
+    "MC202/Note2.wav",
+    "MC202/Note3.wav",
+    "MC202/Note4.wav",
+    "MC202/Note5.wav",
+    "MC202/Note6.wav",
+    "MC202/Note7.wav",
+    "MC202/Note8.wav",
+    "MC202/Note9.wav",
+    "MC202/NoteA.wav",
+    "MC202/NoteB.wav",
+    "MC202/PWN.wav"
+  ],
+  "tb303": [
+    "TB303/303_tb3-bass-23.wav",
+    "TB303/303_tb3-bass-25.wav",
+    "TB303/303_1.wav",
+    "TB303/TB Cat.wav",
+    "TB303/TB Cut.wav",
+    "TB303/TB Low.wav",
+    "TB303/TB Note 1.wav",
+    "TB303/TB Note 2.wav",
+    "TB303/TB Note 3.wav",
+    "TB303/TB Note 4.wav",
+    "TB303/TB Res.wav",
+    "TB303/TB Slo.wav"
+  ],
   "garage1": [
-      "Garage1/garage1_bd.wav",
-      "Garage1/garage1_sd.wav",
-      "Garage1/garage1_rim.wav",
-      "Garage1/garage1_hh.wav",
-      "Garage1/garage1_oh.wav",
-      "Garage1/garage1_cp.wav",
-      "Garage1/garage1_bass.wav",
-      "Garage1/garage1_stab.wav"
-    ]
+    "Garage1/garage1_bd.wav",
+    "Garage1/garage1_sd.wav",
+    "Garage1/garage1_rim.wav",
+    "Garage1/garage1_hh.wav",
+    "Garage1/garage1_oh.wav",
+    "Garage1/garage1_cp.wav",
+    "Garage1/garage1_bass.wav",
+    "Garage1/garage1_stab.wav"
+  ],
+  "garage2": [
+    "Garage2/Kick.wav",
+    "Garage2/Clap.wav",
+    "Garage2/Click.wav",
+    "Garage2/Closed.wav",
+    "Garage2/Rim.wav",
+    "Garage2/Pop.wav",
+    "Garage2/Chord.wav",
+    "Garage2/Pad.wav"
+  ]
 }
